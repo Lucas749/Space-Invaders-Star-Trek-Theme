@@ -7,5 +7,7 @@ Classic Space Invaders in a Start Trek Look written in Pygame.
 
 # Controls
 **Movement:** W,A,S,D-keys to move player
+
 **Shooting:** Space-key to shoot phaser torpedos
+
 **Specials:** F-key to use blackholes
